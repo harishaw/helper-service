@@ -23,8 +23,5 @@
   "repository": {
     "type": "git",
     "url": "https://bp-vsts@dev.azure.com/bp-vsts/Mobile-IST-Oil/_git/npm-helper-service"
-  },
-  "publishConfig":{
-    "registry":"http://dml.bpweb.bp.com:8088/artifactory/api/npm/bp-oil-rhmap-local/"
   }
 }
