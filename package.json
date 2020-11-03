@@ -1,0 +1,30 @@
+{
+  "name": "helperservice",
+  "version": "1.0.0",
+  "description": "redis,service call  and logger common service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cache",
+    "logger",
+    "service"
+  ],
+  "author": "Hari Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "request": "^2.88.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://bp-vsts@dev.azure.com/bp-vsts/Mobile-IST-Oil/_git/npm-helper-service"
+  },
+  "publishConfig":{
+    "registry":"http://dml.bpweb.bp.com:8088/artifactory/api/npm/bp-oil-rhmap-local/"
+  }
+}
