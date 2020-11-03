@@ -22,6 +22,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://bp-vsts@dev.azure.com/bp-vsts/Mobile-IST-Oil/_git/npm-helper-service"
+    "url": "git+https://github.com/harishaw/helper-service"
   }
 }
